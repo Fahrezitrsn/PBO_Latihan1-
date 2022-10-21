@@ -27,3 +27,5 @@ public class Person {
     private String JenisKelamin;
     private int Umur;
 }
+
+![Tugas 1](https://user-images.githubusercontent.com/115134383/197158889-ccd5e237-9aa1-4356-9f3d-e762a5149343.png)
